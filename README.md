@@ -7,10 +7,10 @@
 - 🔭 I’m currently working on a framework for microservice building with python.  
   
 
-- 🌱 I’m currently learning **htmx** and **Alpine.js**.  
+- 🌱 I’m currently learning **Spring Boot** and **Nuxt**.  
   
 
-- ❓ Ask me about anything related to software architecture or python.  
+- ❓ Ask me about anything related to software architecture, python or java.  
   
 
 - ⚡ Fun fact: I bite my thumb while programming.  
